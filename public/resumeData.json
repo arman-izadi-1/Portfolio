@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name":"Arman Izadi",
+    "occupation":"Student / Consultant",
+    "description":"Part Time ERP/CRM Consultant, Full time McGill Student",
+    "image":"profilepic.jpg",
+    "bio":"I am a senior McGill student majoring in Software Engineering with a minor in Economics. I am expecting to graduate by December 2021. Currently, I work as a CRM/ERP consultant at Big Bang Inc.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "arman.izadi@mail.mcgill.ca",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Montreal",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://bigbang360.com/",
+    "resumedownload":"https://drive.google.com/file/d/1dbK8Y4ZZ_1MDikbhxtjJCij2yswMJPSz/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/4R33M4N/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/armanizadi/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/armeezywheezy/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ArmeezyWheezy",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here is a short summary of my top skills",
+    "education":[
+      {
+        "school":"McGill University",
+        "degree":"B.A Software Engineering, minor Economics",
+        "graduated":"Currently Enrolled",
+        "description":"Engineering Undergraduate Society Board of Governor's Member at Large. - EUS Orientation Coordinator 2015 & 2016. - Electrical, Computer, Software Student Society U1 Class representative"
+      }
+    ],
+    "work":[
+      {
+        "company":"Big Bang Inc.",
+        "title":"Consultant",
+        "years":"June 2020 - Present",
+        "description":"Working with a product agnostic company to provide cloud solutions including ERP, CRM and PSA. Products include Oracle Netsuite, Salesforce, Mavenlink, Hubspot. Experience leading client-facing analysis and working sessions for implementation requirements. Part of long-term implementation project from start to go-live, including integrations between systems. Writing JavaScript User Event and Client Event scripts for Oracle Netsuite instances. Trained with Salesforce Apex Scripts in addition"
+      },
+      {
+        "company": "Keywords Studios Montreal",
+        "title": "FQA Senior Tester",
+        "years": "October – September 2019",
+        "description": "Agile work environment. Responsibilities included: client communication (Slack/Skype, standups), task management (JIRA), team management (21 testers), daily reports/deliverables, administrative organization (Excel VBA scripts for task tracking, reporting)."
+      },
+      {
+        "company":"McGill Campus Life and Engagement",
+        "title":"Web Developer and Registration Assistant",
+        "years":"July - September 2018",
+        "description":"Setting up Stripe Gateway on WordPress site to handle $700k worth of Orientation Week Payments, using PHP webhooks and token/call system. Updating Website content and aesthetics with custom CSS, JS scripts on WordPress Framework. Writing PHP scripts to integrate Caldera Forms into 2019 registration website, specifically to query and validate identification codes against SQL database, server side."
+      },
+      {
+        "company":"McGill Engineering Orientation Week Committee ",
+        "title":"Orientation Coordinator",
+        "years":"2015 & 2016",
+        "description":"Working in 12-person team with subcommittees to organize, plan and execute 4-5-day Engineering Orientation Week with a $80k+ budget. Corporate relations with sponsors, venues, event logistics, proactive responsibility for at-risk situations, crisis management and team management. Time management and organization during 3-month planning process."
+      }
+      
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"Git",
+        "level":"90%"
+      },
+      {
+        "name":"Bash",
+        "level":"85%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"75%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"60%"
+      },
+      {
+        "name":"JUnit",
+        "level":"55%"
+      },
+      {
+        "name":"Ocaml",
+        "level":"50%"
+      },
+      {
+        "name":"C",
+        "level":"40%"
+      },
+      {
+        "name":"C++",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Kruskal, Disjointed sets and Greedy Algorithm",
+        "category":"Class Project: COMP 251",
+        "image":"kruskal.jpg",
+        "url":"https://github.com/ArmeezyWheezy/COMP251A2"
+      },
+      {
+        "title":"Colt Express Group Project",
+        "category":"Class Project: COMP 361",
+        "image":"colt.jpg",
+        "url":"https://github.com/COMP361/f2020-hexanome-10"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website",
+        "image":"resume-website.jpg",
+        "url":"https://github.com/ArmeezyWheezy/Portfolio"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
