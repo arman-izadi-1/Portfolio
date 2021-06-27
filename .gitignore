@@ -9,7 +9,10 @@
 /coverage
 
 # production
-/build
+#/build
+
+# intelliJ
+/.idea
 
 # misc
 .DS_Store
