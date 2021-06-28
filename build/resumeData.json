@@ -2,9 +2,8 @@
   "main": {
     "name":"Arman Izadi",
     "occupation":"Technical Consultant",
-    "description":"Product Agnostic Consultant with Functional and Technical experience, looking for Consulting, BA positions as well as more technical backend positions.",
     "image":"profilepic.jpg",
-    "bio":"I am a senior McGill student majoring in Software Engineering with a minor in Economics. I am expecting to graduate by December 2021. Currently, I work as a CRM/ERP consultant at Big Bang 360 Inc.",
+    "bio":"I am a senior McGill student majoring in Software Engineering with a minor in Economics. I am expecting to graduate by December 2021. Currently, I work as a Product Agnostic Consultant with Functional and Technical experience at Big Bang 360 Inc. I am looking for Consulting, BA positions as well as more technical backend positions.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "arman.izadi@mail.mcgill.ca",
     "phone": "555-555-5555",
@@ -15,7 +14,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "https://bigbang360.com/",
-    "resumedownload":"https://drive.google.com/file/d/1EJ2wdeD2WDh0nbiO9OAkIQy6rLgmPTP3/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1YRolMmeO7niwJwoLQMHQGK3B98Mhmb4t/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -86,8 +85,12 @@
         "level":"85%"
       },
       {
-        "name":"SQL / GraphQL",
+        "name":"SQL",
         "level":"80%"
+      },
+      {
+        "name":"GraphQL",
+        "level":"75%"
       },
       {
         "name":"Git / Bash",
@@ -100,14 +103,6 @@
       {
         "name":"HTML/CSS",
         "level":"60%"
-      },
-      {
-        "name":"JUnit",
-        "level":"55%"
-      },
-      {
-        "name":"Ocaml",
-        "level":"50%"
       },
       {
         "name":"C",
