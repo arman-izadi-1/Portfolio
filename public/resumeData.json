@@ -90,6 +90,10 @@
         "level":"80%"
       },
       {
+        "name":"GraphQL",
+        "level":"75%"
+      },
+      {
         "name":"Git / Bash",
         "level":"90%"
       },
@@ -100,14 +104,6 @@
       {
         "name":"HTML/CSS",
         "level":"60%"
-      },
-      {
-        "name":"JUnit",
-        "level":"55%"
-      },
-      {
-        "name":"Ocaml",
-        "level":"50%"
       },
       {
         "name":"C",
