@@ -3,7 +3,7 @@
     "name":"Arman Izadi",
     "occupation":"Technical Consultant",
     "image":"profilepic.jpg",
-    "bio":"I am a senior McGill student majoring in Software Engineering with a minor in Economics. I am expecting to graduate by December 2021. Currently, I work as a Product Agnostic Consultant with Functional and Technical experience at Big Bang 360 Inc. I am looking for Consulting, BA positions as well as more technical backend positions.",
+    "bio":"I am a McGill graduate of 2021, majoring in Software Engineering with a minor in Economics. Currently, I work as a Senior Consultant at Myers Holum Inc.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "arman.izadi@mail.mcgill.ca",
     "phone": "555-555-5555",
@@ -14,7 +14,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "https://bigbang360.com/",
-    "resumedownload":"https://drive.google.com/file/d/1YFHOJ2ppuYM6yOgCojkK82Xs5S3UELAF/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/11ZYO1tFjzxG7rvoGwtN9BEIhD6GcPYie/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -44,7 +44,7 @@
       {
         "school":"McGill University",
         "degree":"B.A Software Engineering, minor Economics",
-        "graduated":"Currently Enrolled",
+        "graduated":"December 2021",
         "description":"Engineering Undergraduate Society Board of Governor's Member at Large. - EUS Orientation Coordinator 2015 & 2016. - Electrical, Computer, Software Student Society U1 Class representative"
       }
     ],
@@ -52,8 +52,8 @@
       {
         "company":"Big Bang Inc.",
         "title":"Consultant",
-        "years":"June 2020 - Present",
-        "description":"Working with a product agnostic company to provide cloud solutions including ERP, CRM and PSA. Products include Oracle Netsuite, Salesforce, Mavenlink, Hubspot. Experience leading client-facing analysis and working sessions for implementation requirements. Part of long-term implementation project from start to go live, including integrations between systems. Point person on support projects. A key resource for Revenue Recognition, Accounts Payable, Dunning expert and Mavenlink API. Writing JavaScript custom scripts for Oracle Netsuite instances. Created Custom Revenue Recognition module (Netsuite ARM replacement). Created custom import tool hosted on Google Sheets using Mavenlink API. Trained with Salesforce Apex Scripts in addition."
+        "years":"June 2020 - December 2021",
+        "description":"Developing integrations with Java Springboot and REST API between Hubspot, Mavenlink, Netsuite. Writing JavaScript custom scripts for Oracle Netsuite instances. Created Custom Revenue Recognition module (Netsuite ARM replacement) using Map/Reduce, server-side scripts and Suitelets (custom pages). Created custom import tool hosted on Google Sheets using Mavenlink API, Google Script. Trained with Salesforce Apex Scripts (Java) in addition. Part of customization practice to configure and document company-wide IDE and best practices. Familiar with VSCode, IntelliJ and Eclipse for use with SVN, Git. Experience leading client-facing analysis and working sessions for implementation requirements. Part of long-term implementation project from start to go live, including integrations between systems. Point person on support projects."
       },
       {
         "company": "Keywords Studios Montreal",
@@ -117,22 +117,22 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Kruskal, Disjointed sets and Greedy Algorithm",
+        "title":"Data Analysis of Covid-19 on Twitter",
+        "category":"Class Project: COMP 598",
+        "image":"comp598.jpg",
+        "url":"https://github.com/ArmeezyWheezy/COMP598/blob/main/COMP598___Final_Project_Report___AAAI.pdf"
+      },
+      {
+        "title":"CLI Covid Vaccine Database",
+        "category":"Class Project: COMP 421",
+        "image":"comp421.jpg",
+        "url":"https://github.com/ArmeezyWheezy/COMP421/blob/master/src/P3/VaccineApp.java"
+      },
+      {
+        "title":"Java File Parser",
         "category":"Class Project: COMP 251",
-        "image":"kruskal.jpg",
-        "url":"https://github.com/ArmeezyWheezy/COMP251A2"
-      },
-      {
-        "title":"Colt Express Group Project",
-        "category":"Class Project: COMP 361",
-        "image":"colt.jpg",
-        "url":"https://github.com/COMP361/f2020-hexanome-10"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website",
-        "image":"resume-website.jpg",
-        "url":"https://github.com/ArmeezyWheezy/Portfolio"
+        "image":"comp251.jpg",
+        "url":"https://github.com/ArmeezyWheezy/COMP251FinalProject/blob/master/src/US_elections.java"
       }
     ]
   },
