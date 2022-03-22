@@ -50,6 +50,12 @@
     ],
     "work":[
       {
+        "company":"Myers-Holum Inc.",
+        "title":"Senior Consultant",
+        "years":"January 2022 - present",
+        "description":"Using unique techno functional experience, providing assistance to project direction and troubleshooting. Ramping up and mentoring analysts with weekly checkins and structured learning plan. Leading implementations from analysis till support, with client management and extensive documentation procedures. "
+      },
+      {
         "company":"Big Bang Inc.",
         "title":"Consultant",
         "years":"June 2020 - December 2021",
@@ -58,7 +64,7 @@
       {
         "company": "Keywords Studios Montreal",
         "title": "FQA Senior Tester",
-        "years": "October – September 2019",
+        "years": "October - September 2019",
         "description": "Agile work environment. Responsibilities included: client communication (Slack/Skype, standups), task management (JIRA), team management (21 testers), daily reports/deliverables, administrative organization (Excel VBA scripts for task tracking, reporting)."
       },
       {
