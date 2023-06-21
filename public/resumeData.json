@@ -51,8 +51,14 @@
     "work":[
       {
         "company":"Myers-Holum Inc.",
+        "title":"Principal Consultant",
+        "years":"January 2023 - present",
+        "description":"Extensive on-site experience. Additional experience with ARM Revenue Allocations. Leading integrations projects and solution architecting between systems. Leading project implementations from start to finish. "
+      },
+      {
+        "company":"Myers-Holum Inc.",
         "title":"Senior Consultant",
-        "years":"January 2022 - present",
+        "years":"January 2022 - January 2023",
         "description":"Using unique techno functional experience, providing assistance to project direction and troubleshooting. Ramping up and mentoring analysts with weekly checkins and structured learning plan. Leading implementations from analysis till support, with client management and extensive documentation procedures. "
       },
       {
